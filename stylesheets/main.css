@@ -1,16 +1,12 @@
 body {
-  background-color: black;
+
 }
 
 .container {
-  background-image: url("../images/waterfall.jpg");
-  background-size: 100% 100%;
-  width: 800px;
-  height: 100%;
+
 }
 
 h1 {
-  padding: 35% 0;
   font-size: 100px;
   font-family: Verdana;
   color: white;
